@@ -96,7 +96,7 @@ A modern, AI-powered employee attendance management system that leverages advanc
 ## Technologies Used
 
 ### Backend
-- **Python 3.8+**: Core programming language
+- **Python 3.7.11+**: Core programming language
 - **Flask 2.0.1**: Lightweight web framework
 - **MySQL Connector**: Database connectivity
 - **OpenCV 4.5.3**: Real-time computer vision
