@@ -206,7 +206,7 @@ Create a `.env` file in the project root:
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=your_mysql_password
-DB_NAME=face_recognition_db
+DB_NAME=face_recognition
 
 # Security Configuration
 SECRET_KEY=your_super_secret_key_here_change_this
